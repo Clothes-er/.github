@@ -54,6 +54,16 @@
 
 ## 💜 기능별 기술적 구현
 
+### 📍 회원가입 및 로그인
+- **유효성 검사**를 진행하여 유저가 바로 수정할 수 있게 함
+- 거래 신뢰를 위한 **이메일 인증** 및 **휴대폰 인증**
+- **최초 로그인 시** 사용자의 정보를 선택적으로 입력받아 서비스 이용을 위한 기본 설정을 세팅
+
+<img src="https://github.com/user-attachments/assets/4cce64de-872a-4ef1-9d67-e7f9214bd520" width="30%" />
+<img src="https://github.com/user-attachments/assets/e5fef05a-c8fa-4f62-a463-e7335ee67e97" width="30%" />
+
+<br/>
+
 ### 📍 공유 옷장 (홈 화면)
 
 - **Kakao 주소 API**를 활용하여 사용자의 위치 기반으로 반경 2km 이내 의류 대여글 제공
