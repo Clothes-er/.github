@@ -1,4 +1,4 @@
-![게시글 조회 및 신고](https://github.com/user-attachments/assets/e7abe1f5-a2d0-4ceb-8b6e-337d8d5733d4)# 🛍 Clothes:er (클로저)
+# 🛍 Clothes:er (클로저)
 
 ![표지](https://github.com/user-attachments/assets/e8b8fe1d-f4e5-4a10-84a0-cbeb611bf18f)
 
@@ -118,7 +118,9 @@
 
 - **FCM 연동**하여 **채팅, 팔로우, 신고 등** 관련 알림 시스템 구축
 
-<img src="https://github.com/user-attachments/assets/310480a3-6700-4817-be8a-25d244923dae" width="30%" />
+<img src="https://github.com/user-attachments/assets/310480a3-6700-4817-be8a-25d244923dae" width="30.7%" />
+<img src="https://github.com/user-attachments/assets/2dc38bad-1b69-4f98-9e5d-59925fe1cda1" width="31%" />
+<img src="https://github.com/user-attachments/assets/cd47ee05-400a-4ef5-9171-58f385760164" width="31%" />
 
 <br/><br/>
 
