@@ -107,13 +107,17 @@
 - **대여글 및 보유 옷 찜 조회**
 - 의류 대여 횟수에 따른 서비스 레벨 제공
 
-<br/>
+<img src="https://github.com/user-attachments/assets/30b536e8-dbbd-4ffe-a271-91e77ef306eb" width="30%" />
+<img src="https://github.com/user-attachments/assets/73a9a1ff-6bb1-45c0-8c8b-3cddf7461bae" width="30%" />
+<img src="https://github.com/user-attachments/assets/f7981f41-2f75-469f-8782-9a94cab492a6" width="30%" />
+
+<br/><br/>
 
 ### 📍 푸시 알림
 
 - **FCM 연동**하여 **채팅, 팔로우, 신고 등** 관련 알림 시스템 구축
 
-<br/>
+<br/><br/>
 
 ### 📍 관리자 페이지
 
