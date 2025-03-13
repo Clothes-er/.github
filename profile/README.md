@@ -1,4 +1,4 @@
-# 🛍 Clothes:er (클로저)
+![게시글 조회 및 신고](https://github.com/user-attachments/assets/e7abe1f5-a2d0-4ceb-8b6e-337d8d5733d4)# 🛍 Clothes:er (클로저)
 
 ![표지](https://github.com/user-attachments/assets/e8b8fe1d-f4e5-4a10-84a0-cbeb611bf18f)
 
@@ -73,6 +73,7 @@
 
 <img src="https://github.com/user-attachments/assets/b9ce9665-acc8-4a3d-b132-24bb850f2092" width="30%" />
 <img src="https://github.com/user-attachments/assets/0331b4d8-4384-488b-9007-da2b9e8352f1" width="29%" />
+<img src="https://github.com/user-attachments/assets/8aa25a67-47b6-42f3-9014-d07678af7c44" width="29%" />
 
 <br/><br/>
 
