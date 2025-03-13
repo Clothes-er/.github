@@ -94,7 +94,9 @@
 - **사용자가 입력한 신체, 취향 정보를 기반으로 유사도를 매겨 다른 사람의 보유 옷 노출**
 - **팔로우 기능 및 팔로잉하는 유저의 게시글 모아보기 기능 구현**
 
-<br/>
+<img src="https://github.com/user-attachments/assets/44fcd3a7-dbd5-48d3-a5a9-aab943487406" width="30%" />
+
+<br/><br/>
 
 ### 📍 나의 옷장
 
@@ -119,6 +121,9 @@
 - **전체 회원의 정보를 열람하고, 사용자 검토 후 조치 가능**
 - 사용자 거래 내역 및 채팅 확인 가능
 
+<img src="https://github.com/user-attachments/assets/3eeeebe4-fb04-4edc-858e-e582d9b4acc4" width="60%" /><br/>
+<img src="https://github.com/user-attachments/assets/e7545cfe-a249-48e6-94ea-ec5e4075a168" width="60%" />
+
 <br/><br/>
 
 ## 💜 CI/CD 및 배포
@@ -137,6 +142,6 @@
 
 👨‍💻 **백엔드 (Spring Boot 🌱) : 조세영**
 
-| [![](https://github.com//yyypearl.png?width=200px)](https://github.com/yyypearl) | [![](https://github.com///ilu25.png?width=200px)](https://github.com//ilu25)|
+| <img src="https://github.com//yyypearl.png" width=200px alt="유진주"/> | <img src="https://github.com//ilu25.png" width=200px alt="조세영"/> |
 |:---:|:---:|
 | 유진주(FE) | 조세영(BE) |
