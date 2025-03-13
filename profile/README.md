@@ -62,7 +62,7 @@
 <img src="https://github.com/user-attachments/assets/72ddbda6-da3b-4212-9826-2da5ed863b72" width="30%" />
 <img src="https://github.com/user-attachments/assets/653616c1-9f2e-40dc-933c-2118419aaf8a" width="30%" />
 
-<br/>
+<br/><br/>
 
 ### 📍 공유 옷장 (홈 화면)
 
@@ -72,8 +72,9 @@
 - **신고 기능 구현**: 부적절한 게시글 작성 유저 신고 가능, 관리자가 검토 후 조치
 
 <img src="https://github.com/user-attachments/assets/b9ce9665-acc8-4a3d-b132-24bb850f2092" width="30%" />
+<img src="https://github.com/user-attachments/assets/0331b4d8-4384-488b-9007-da2b9e8352f1" width="30%" />
 
-<br/>
+<br/><br/>
 
 ### 📍 채팅 기능
 
@@ -84,7 +85,9 @@
 - **거래 상태 변경 가능**: 대여자가 체크리스트를 작성하면 판매자가 거래 상태 변경 가능 (대여중 또는 대여 완료)
 - **거래 후기 작성 기능**: 신뢰도 확보를 위한 거래 평가 시스템 구축
 
-<br/>
+<img src="https://github.com/user-attachments/assets/bed58db0-fabb-4baa-941c-f4003bdb1aac" width="60%" />
+
+<br/><br/>
 
 ### 📍 옷장 구경
 
