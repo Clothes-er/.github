@@ -59,8 +59,8 @@
 - 거래 신뢰를 위한 **이메일 인증** 및 **휴대폰 인증**
 - **최초 로그인 시** 사용자의 정보를 선택적으로 입력받아 서비스 이용을 위한 기본 설정을 세팅
 
-<img src="https://github.com/user-attachments/assets/4cce64de-872a-4ef1-9d67-e7f9214bd520" width="30%" />
-<img src="https://github.com/user-attachments/assets/e5fef05a-c8fa-4f62-a463-e7335ee67e97" width="30%" />
+<img src="https://github.com/user-attachments/assets/72ddbda6-da3b-4212-9826-2da5ed863b72" width="30%" />
+<img src="https://github.com/user-attachments/assets/653616c1-9f2e-40dc-933c-2118419aaf8a" width="30%" />
 
 <br/>
 
@@ -70,6 +70,8 @@
 - **필터링 및 정렬**: **QueryDSL**을 사용해서 성별, 체형, 스타일, 카테고리별 필터 및 정렬 기능 제공
 - **대여글 작성 및 채팅 이동**
 - **신고 기능 구현**: 부적절한 게시글 작성 유저 신고 가능, 관리자가 검토 후 조치
+
+<img src="https://github.com/user-attachments/assets/b9ce9665-acc8-4a3d-b132-24bb850f2092" width="30%" />
 
 <br/>
 
