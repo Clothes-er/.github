@@ -72,7 +72,7 @@
 - **신고 기능 구현**: 부적절한 게시글 작성 유저 신고 가능, 관리자가 검토 후 조치
 
 <img src="https://github.com/user-attachments/assets/b9ce9665-acc8-4a3d-b132-24bb850f2092" width="30%" />
-<img src="https://github.com/user-attachments/assets/0331b4d8-4384-488b-9007-da2b9e8352f1" width="30%" />
+<img src="https://github.com/user-attachments/assets/0331b4d8-4384-488b-9007-da2b9e8352f1" width="29%" />
 
 <br/><br/>
 
@@ -86,7 +86,7 @@
 - **거래 후기 작성 기능**: 신뢰도 확보를 위한 거래 평가 시스템 구축
 
 <img src="https://github.com/user-attachments/assets/bed58db0-fabb-4baa-941c-f4003bdb1aac" width="60%" />
-
+<img src="https://github.com/user-attachments/assets/a51c42f7-6a0b-4877-9246-679046213595" width="29%" />
 <br/><br/>
 
 ### 📍 옷장 구경
